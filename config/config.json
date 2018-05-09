@@ -1,21 +1,21 @@
 {
   "development": {
     "username": "root",
-    "password": "ABC.abc.123",
+    "password": "",
     "database": "ct",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "ABC.abc.123",
+    "password": "",
     "database": "ct_test",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
-    "password": "ABC.abc.123",
+    "password": "",
     "database": "ct_production",
     "host": "127.0.0.1",
     "dialect": "mysql"
